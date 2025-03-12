@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "image": "https://blogs-images.forbes.com/ceciliarodriguez/files/2019/03/vangogh1.jpg",
+        "altText": "Wheatfield with crows",
+        "date": "23/01/2025",
+        "title": "Exploring Van Gogh's Masterpieces: A Journey Through His Iconic Paintings"
+      },
+
+      {
+        "id": "2",
+        "image": "https://i.pinimg.com/originals/cc/17/08/cc17084f08ec302059a48baf1411e8a1.jpg",
+        "altText": "Wheatfield with crows",
+        "date": "28/01/2025",
+        "title": " The Emotional Turmoil Behind Van Gogh's Brushstrokes: Understanding His Mental Struggles"
+      },
+
+      {
+        "id": "3",
+        "image": "https://media.timeout.com/images/105397744/image.jpg",
+        "altText": "Wheatfield with crows",
+        "date": "23/01/2025",
+        "title": " Van Gogh's Influence on Modern Art: How His Legacy Lives On"
+      }
+    ]

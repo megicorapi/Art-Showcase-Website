@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "image": "https://blogs-images.forbes.com/ceciliarodriguez/files/2019/03/vangogh1.jpg",
+        "altText": "Wheatfield with crows",
+        "date": "23/01/2025",
+        "title": "Exploring Van Gogh's Masterpieces: A Journey Through His Iconic Paintings",
+        "intro": "Vincent van Gogh's paintings are among the most recognizable in the world. His brushstrokes, color choices, and emotional..."
+      },
+
+      {
+        "id": "2",
+        "image": "https://i.pinimg.com/originals/cc/17/08/cc17084f08ec302059a48baf1411e8a1.jpg",
+        "altText": "Wheatfield with crows",
+        "date": "28/01/2025",
+        "title": " The Emotional Turmoil Behind Van Gogh's Brushstrokes: Understanding His Mental Struggles",
+        "intro": "Vincent van Gogh’s life was marked by emotional pain and mental illness, both of which are intricately woven into the fabric of his artwork. From depression to..."
+      },
+
+      {
+        "id": "3",
+        "image": "https://media.timeout.com/images/105397744/image.jpg",
+        "altText": "Wheatfield with crows",
+        "date": "23/01/2025",
+        "title": " Van Gogh's Influence on Modern Art: How His Legacy Lives On",
+        "intro": "Vincent van Gogh's influence on modern art is profound and far-reaching. While he struggled with recognition during his lifetime, today, he is considered one of the most influential artists in history. His innovative techniques..."
+      },
+
+      {
+        "id": "4",
+        "image": "https://ichef.bbci.co.uk/news/1024/media/images/78884000/jpg/_78884522_vincet_van_gogh_ear_1024afp.jpg",
+        "altText": "Wheatfield with crows",
+        "date": "28/01/2025",
+        "title": "The Mystery of Van Gogh's Ear: A Deep Dive into His Most Famous Incident",
+        "intro": "One of the most talked-about moments in Vincent van Gogh’s life was the infamous incident in which he severed part of his own ear. The event, which occurred in December 1888, has sparked much speculation and remains a subject of fascination for historians and art lovers alike. While staying in Arles, France, Van Gogh's mental health..."
+      }
+    
+  ]
